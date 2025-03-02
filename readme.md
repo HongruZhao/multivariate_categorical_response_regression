@@ -31,6 +31,9 @@ The repository is organized into two main sections: simulation studies and real 
 
 ### Real Data Analysis
 
+- **Download Real Data**  
+  - `GDS3268_data.R`: Run this script to download the real dataset.
+
 - **SLURM Parallel Computing Script**  
   Similar to the simulation study, a SLURM job script is provided to run the real data analysis in parallel.  
   **Note:** Execution might be slow due to the nature of the computations.
